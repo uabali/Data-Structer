@@ -10,5 +10,6 @@ void findNemo1(char **array) {
 int main() {
     char *nemo[] = {"nemo"};
     findNemo1(nemo);
+
     return 0;
 }
